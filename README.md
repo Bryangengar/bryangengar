@@ -2,7 +2,7 @@
  
 ### meu nome é bryan
 
-estou estudando javaScript no github, eu vou ententer como meche?
+estou estudando javaScript no github, será que eu vou conseguir entender?
 bom,isso está...dentro do caos.
 isto é... dorohedoro!!
 
